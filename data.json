@@ -1,0 +1,122 @@
+[
+    {
+        "drug1": "aspirin",
+        "drug2": "warfarin",
+        "risk": "High",
+        "reason": "Increased risk of bleeding"
+    },
+    {
+        "drug1": "ibuprofen",
+        "drug2": "steroids",
+        "risk": "Medium",
+        "reason": "May cause stomach irritation"
+    },
+    {
+        "drug1": "paracetamol",
+        "drug2": "ibuprofen",
+        "risk": "Low",
+        "reason": "Generally safe in normal doses"
+    },
+    {
+        "drug1": "metformin",
+        "drug2": "alcohol",
+        "risk": "High",
+        "reason": "Risk of lactic acidosis"
+    },
+    {
+        "drug1": "atorvastatin",
+        "drug2": "grapefruit",
+        "risk": "Medium",
+        "reason": "Increases drug concentration"
+    },
+    {
+        "drug1": "lisinopril",
+        "drug2": "potassium",
+        "risk": "High",
+        "reason": "May cause high potassium levels"
+    },
+    {
+        "drug1": "amoxicillin",
+        "drug2": "paracetamol",
+        "risk": "Low",
+        "reason": "No major interaction"
+    },
+    {
+        "drug1": "aspirin",
+        "drug2": "ibuprofen",
+        "risk": "Medium",
+        "reason": "Reduces aspirin effectiveness"
+    },
+    {
+        "drug1": "warfarin",
+        "drug2": "antibiotics",
+        "risk": "High",
+        "reason": "Increases bleeding risk"
+    },
+    {
+        "drug1": "insulin",
+        "drug2": "beta blockers",
+        "risk": "Medium",
+        "reason": "May mask low blood sugar symptoms"
+    },
+    {
+        "drug1": "digoxin",
+        "drug2": "diuretics",
+        "risk": "High",
+        "reason": "May cause toxicity"
+    },
+    {
+        "drug1": "benzodiazepines",
+        "drug2": "alcohol",
+        "risk": "High",
+        "reason": "Severe drowsiness and breathing issues"
+    },
+    {
+        "drug1": "antihistamines",
+        "drug2": "alcohol",
+        "risk": "Medium",
+        "reason": "Increased drowsiness"
+    },
+    {
+        "drug1": "antidepressants",
+        "drug2": "tramadol",
+        "risk": "High",
+        "reason": "Risk of serotonin syndrome"
+    },
+    {
+        "drug1": "oral contraceptives",
+        "drug2": "antibiotics",
+        "risk": "Medium",
+        "reason": "Reduced effectiveness"
+    },
+    {
+        "drug1": "acetaminophen",
+        "drug2": "alcohol",
+        "risk": "High",
+        "reason": "Liver damage risk"
+    },
+    {
+        "drug1": "statins",
+        "drug2": "antifungals",
+        "risk": "High",
+        "reason": "Muscle damage risk"
+    },
+    {
+        "drug1": "calcium supplements",
+        "drug2": "iron",
+        "risk": "Low",
+        "reason": "Reduced absorption"
+    },
+    {
+        "drug1": "aspirin",
+        "drug2": "clopidogrel",
+        "risk": "High",
+        "reason": "Increased bleeding risk"
+    },
+    {
+        "drug1": "omeprazole",
+        "drug2": "clopidogrel",
+        "risk": "Medium",
+        "reason": "Reduces effectiveness"
+    }
+]sa
